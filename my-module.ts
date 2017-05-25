@@ -1,0 +1,1 @@
+export { MyModuleService } from './src/app/my-module/my-module.service';
